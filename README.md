@@ -69,7 +69,7 @@
 ## Getting Started
 
 ### Prerequisites
-Make sure you have Node.js and npm installed. You can use [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for managing Node versions.
+Make sure you have Node.js and npm installed. You can use [nvm](https://gitlab.com/nvm-sh/nvm#installing-and-updating) for managing Node versions.
 
 ### Setup Instructions
 
